@@ -131,7 +131,7 @@ while True:
 
         # 6時間タイマーをチェックして、6時間経過すれば、洗浄信号を出す。
         # if time.time() - start >= 60*60*6:
-        if time.time() - start >= 60:
+        if time.time() - start >= 60*60*6:
             start = time.time()  # 現在のUNIX時間（秒）カウンターのリセット
             try:
                 print("send file toiletClean")
