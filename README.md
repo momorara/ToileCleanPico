@@ -41,7 +41,7 @@ https://micropython.org/download/RPI_PICO/ <br>
   資料等を作成中です。<br>
   サポートコミュニティー　https://www.facebook.com/groups/3773038759434230<br>
 <br>
-
+<h4><<基板販売>></h4>
 基板については、キャンプファイヤーで販売中です。<br>
 https://camp-fire.jp/projects/877323/view<br>
 
