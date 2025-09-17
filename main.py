@@ -6,8 +6,10 @@
 2025/05/13  tilet基板に対応
 2025/05/26  人感センサー対応
     v02
+2025/09/17  LED
+    v03    
 
-ToileCleanPico_02.py
+ToileCleanPico_03.py
 """
 import time
 from machine import Pin
@@ -31,7 +33,7 @@ sw_n = 6 # swの数 6個全て
 sw_pin = [14,14,14,14,14,14] # swのGPIO pin sw-no:4
 SR_602 = 1 # 人感センサーのピン
 """"""""""""  """"""""""""
-SR_602 = Pin(SR_602, Pin.IN)
+SR_602 = Pin(SR_602, Pin.IN, Pin.PULL_DOWN)
 
 led2 = Pin(display_LED, Pin.OUT,Pin.PULL_DOWN)
 def LED_flash(count=3):
