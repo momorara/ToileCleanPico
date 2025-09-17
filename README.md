@@ -34,7 +34,7 @@ https://micropython.org/download/RPI_PICO/ <br>
 お問い合わせに関しては、購入ページからお願いします。　
 
 <h4><<メンテナンス情報>></h4>
-未登録<br>
+2025/09/17 一部修正<br>
 
 <h4><<サポート窓口>></h4>
   メールアドレス　tkj-works@mbr.nifty.com <br>
