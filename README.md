@@ -46,6 +46,7 @@ https://micropython.org/download/RPI_PICO/ <br>
 <h4><<メンテナンス情報>></h4>
 2025/09/17 一部修正<br>
 2026/03/30 iR-LEDを1個運用としました。<br>
+2026/03/31 取説をv1.2にしました。<br>
 
 <h4><<サポート窓口>></h4>
   メールアドレス　tkj-works@mbr.nifty.com <br>
